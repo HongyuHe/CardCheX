@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cards/amexr.jpg</file>
+        <file>Cards/dicover.jpg</file>
+        <file>Cards/master.jpg</file>
+        <file>Cards/visa.jpg</file>
+        <file>Cards/A.jpg</file>
+        <file>Cards/D.jpg</file>
+        <file>Cards/M.jpg</file>
+        <file>Cards/V.jpg</file>
+        <file>Icons/google_web_search.png</file>
+        <file>Icons/magnifyingglass.png</file>
+        <file>Icons/oxp-search.png</file>
+        <file>Icons/search-icon.png</file>
+        <file>Icons/sign-check-icon.png</file>
+        <file>Icons/sign-error-icon.png</file>
+        <file>Icons/sign-question-icon.png</file>
+        <file>Cards/amex-64.png</file>
+        <file>Cards/credit_card.png</file>
+        <file>Cards/credit_cards.png</file>
+        <file>Cards/credit-cards.png</file>
+        <file>Cards/discover-64.png</file>
+        <file>Cards/mastercard-64.png</file>
+        <file>Cards/visa-64.png</file>
+        <file>Icons/question.png</file>
+        <file>Icons/back.png</file>
+        <file>Cards/american-express.png</file>
+        <file>Cards/credit_card_mastercard_400.png</file>
+        <file>Cards/discover.png</file>
+        <file>Cards/visa.png</file>
+        <file>Cards/CCX.png</file>
+        <file>Cards/Samples.png</file>
+        <file>Cards/LuhnInfo.jfif</file>
+        <file>Icons/face-uncertain_copy.png</file>
+        <file>Icons/cancel_red.png</file>
+        <file>Cards/credit_cart.png</file>
+        <file>Cards/mastercard.png</file>
+        <file>Cards/mastercard_512.png</file>
+        <file>Cards/credit59.png</file>
+        <file>Cards/V7.png</file>
+        <file>Cards/cover.png</file>
+        <file>Cards/Cover2.png</file>
+        <file>CardCheX.ico</file>
+    </qresource>
+</RCC>
